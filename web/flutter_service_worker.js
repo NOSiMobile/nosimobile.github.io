@@ -8,7 +8,7 @@ const RESOURCES = {
 "/assets/assets/images/male.png": "f2fb7dfff4d2466bba7e34c818b3f899",
 "/assets/assets/images/sta_na_bo_mon.jpeg": "fa88634ad9775df684577553aa0049f8",
 "/assets/assets/images/women.png": "bbe08f2c6ef7a4939920646fee964bef",
-"/assets/assets/logo.png": "d3764459cd4cd80721542ef0b0e6739a",
+"/assets/assets/logo.png": "23277d3c776c906559e42572158f4b9c",
 "/assets/assets/noticia_test.png": "6e1ada1b3afc1f2f30036e9eea632803",
 "/assets/assets/otp.flr": "4ac6d7f5b922c9f28ece51d1e4b885e6",
 "/assets/FontManifest.json": "7a73bb7dc0b117c99b6c880b4b63fcf1",
@@ -19,7 +19,7 @@ const RESOURCES = {
 "/icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "/icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "/index.html": "8e6a725cf96ed0eb8539e7ca169f1d47",
-"/main.dart.js": "fc0f4062ad2cb841528a04a85aa7ce63",
+"/main.dart.js": "697f0f111bbeadd24dba217249c9ed8b",
 "/manifest.json": "239729811d0c285d9ec087f5f3014c31"
 };
 
