@@ -40,14 +40,14 @@ const RESOURCES = {
 "/icons/favicon-32x32.png": "502ace845232242ab0438de64d20ed11",
 "/icons/favicon-96x96.png": "98bffb6a34978e8c8266ee67dc91ea7e",
 "/icons/favicon.ico": "4cc33cdd42d404a17ef22218b62ae98d",
-"/icons/Icon-192.png": "842eda2ba7b84c38807cc6b703cdecdb",
-"/icons/Icon-512.png": "c9c24e8fdfca3e165e0536c767f293cc",
+"/icons/Icon-192.png": "e19ccaca9ae57acff3d5e6370bddb608",
+"/icons/Icon-512.png": "46f2a5b944447d49502ec852e5e06a46",
 "/icons/ms-icon-144x144.png": "4daef09db4fba64861cf8a4dca1ddad5",
 "/icons/ms-icon-150x150.png": "4f5e5f31e06598c20461f80b5ca3edb3",
 "/icons/ms-icon-310x310.png": "6fc3724394c59a057eb806da1b788054",
 "/icons/ms-icon-70x70.png": "19fbeafc842bca8ae0171c18a4fff90a",
-"/index.html": "c5cba4c7064adc73bd8a6cadf61fdc50",
-"/main.dart.js": "24494f4357eab1c193a47e8074bb3b18",
+"/index.html": "366929cc16e37afc937436e4b3eeb774",
+"/main.dart.js": "28544d636b59d78022e9238b49ac7b9e",
 "/manifest.json": "c0c6ff93287cb8a6b7de7cf2c3efd6ee"
 };
 
