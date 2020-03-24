@@ -1,0 +1,623 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.16",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.70409241,
+          14.85657101
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "238901",
+        "nome": "BRAVA",
+        "geog_id": "2389",
+        "nivel": "3",
+        "total": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.961",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.72128412,
+          16.73930197
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "23810",
+        "nome": "SANTA LUZIA",
+        "geog_id": "238",
+        "nivel": "2",
+        "total": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.1332",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.63912837,
+          15.19327183
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "238706",
+        "nome": "SAO MIGUEL",
+        "geog_id": "2387",
+        "nivel": "3",
+        "total": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.1464",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.16139087,
+          15.21705054
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "2386",
+        "nome": "MAIO",
+        "geog_id": "238",
+        "nivel": "2",
+        "total": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.1465",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.93153276,
+          16.73694705
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "2384",
+        "nome": "SAL",
+        "geog_id": "238",
+        "nivel": "2",
+        "total": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.1466",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.6246342,
+          15.08352442
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "2387",
+        "nome": "SANTIAGO",
+        "geog_id": "238",
+        "nivel": "2",
+        "total": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.1467",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.16997212,
+          17.05632737
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "2381",
+        "nome": "SANTO ANTAO",
+        "geog_id": "238",
+        "nivel": "2",
+        "total": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.1468",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.9678749,
+          16.84545432
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "2382",
+        "nome": "SAO VICENTE",
+        "geog_id": "238",
+        "nivel": "2",
+        "total": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.1469",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.25689695,
+          16.59846866
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "2383",
+        "nome": "SAO NICOLAU",
+        "geog_id": "238",
+        "nivel": "2",
+        "total": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.1473",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.81438779,
+          16.09737401
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "2385",
+        "nome": "BOA VISTA",
+        "geog_id": "238",
+        "nivel": "2",
+        "total": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.1474",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.70409241,
+          14.85657101
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "2389",
+        "nome": "BRAVA",
+        "geog_id": "238",
+        "nivel": "2",
+        "total": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.1475",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.38444518,
+          14.92814099
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "2388",
+        "nome": "FOGO",
+        "geog_id": "238",
+        "nivel": "2",
+        "total": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.17",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.01254931,
+          17.11152329
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "238102",
+        "nome": "PAUL",
+        "geog_id": "2381",
+        "nivel": "3",
+        "total": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.18",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.19858083,
+          17.0258544
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "238103",
+        "nome": "PORTO NOVO",
+        "geog_id": "2381",
+        "nivel": "3",
+        "total": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.48",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.33892533,
+          15.00038023
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "238801",
+        "nome": "MOSTEIROS",
+        "geog_id": "2388",
+        "nivel": "3",
+        "total": 34
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.49",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.431793,
+          14.92323645
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "238802",
+        "nome": "SAO FILIPE",
+        "geog_id": "2388",
+        "nivel": "3",
+        "total": 33
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.667",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.20274425,
+          16.60020076
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "238301",
+        "nome": "RIBEIRA BRAVA",
+        "geog_id": "2383",
+        "nivel": "3",
+        "total": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.668",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.45508887,
+          16.63354226
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "238302",
+        "nome": "TARRAFAL SAO NICOLAU",
+        "geog_id": "2383",
+        "nivel": "3",
+        "total": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.917",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.12622038,
+          17.14011052
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "238101",
+        "nome": "RIBEIRA GRANDE",
+        "geog_id": "2381",
+        "nivel": "3",
+        "total": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.1330",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.55216814,
+          15.11121671
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "238703",
+        "nome": "SANTA CRUZ",
+        "geog_id": "2387",
+        "nivel": "3",
+        "total": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.1331",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.59348046,
+          15.06491115
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "238708",
+        "nome": "SAO LOURENCO ORGAOS",
+        "geog_id": "2387",
+        "nivel": "3",
+        "total": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.1333",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.62956827,
+          15.09072728
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "238707",
+        "nome": "SAO SALVADOR MUNDO",
+        "geog_id": "2387",
+        "nivel": "3",
+        "total": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.1334",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.71772491,
+          15.26450496
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "238701",
+        "nome": "TARRAFAL",
+        "geog_id": "2387",
+        "nivel": "3",
+        "total": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.1335",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.52092299,
+          14.95009514
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "238704",
+        "nome": "PRAIA",
+        "geog_id": "2387",
+        "nivel": "3",
+        "total": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.1336",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.70795217,
+          15.10546779
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "238702",
+        "nome": "SANTA CATARINA",
+        "geog_id": "2387",
+        "nivel": "3",
+        "total": 31
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.1337",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.63722782,
+          14.9739263
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "238709",
+        "nome": "RIBEIRA GRANDE SANTIAGO",
+        "geog_id": "2387",
+        "nivel": "3",
+        "total": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.1338",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.52300163,
+          15.01903773
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "238705",
+        "nome": "SAO DOMINGOS",
+        "geog_id": "2387",
+        "nivel": "3",
+        "total": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.1375",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.81438779,
+          16.09737401
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "238501",
+        "nome": "BOA VISTA",
+        "geog_id": "2385",
+        "nivel": "3",
+        "total": 89
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.1412",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.16139087,
+          15.21705054
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "238601",
+        "nome": "MAIO",
+        "geog_id": "2386",
+        "nivel": "3",
+        "total": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.1446",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.33850693,
+          14.8957064
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "238803",
+        "nome": "SANTA CATARINA FOGO",
+        "geog_id": "2388",
+        "nivel": "3",
+        "total": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.1571",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -24.9678749,
+          16.84545432
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "238201",
+        "nome": "SAO VICENTE",
+        "geog_id": "2382",
+        "nivel": "3",
+        "total": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "geo_localizacao.1575",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.93152654,
+          16.73695077
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "id": "238401",
+        "nome": "SAL",
+        "geog_id": "2384",
+        "nivel": "3",
+        "total": 8
+      }
+    }
+  ],
+  "totalFeatures": 32,
+  "numberMatched": 32,
+  "numberReturned": 32,
+  "timeStamp": "2020-03-23T22:42:06.654Z",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  }
+}
